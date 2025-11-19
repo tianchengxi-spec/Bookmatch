@@ -1,0 +1,5 @@
+{
+  "name": "BookMatch",
+  "description": "A Tinder-style book discovery interface for bookstores.",
+  "requestFramePermissions": []
+}
